@@ -61,7 +61,7 @@ REST API приложение для справочника Организаци
 2. Клонируйте репозиторий:
    ```
    git clone https://github.com/yokitheyo/nebtask.git
-   cd tetst
+   cd nebtask
    ```
 
 3. Создайте файл .env в корне проекта со следующим содержимым:
