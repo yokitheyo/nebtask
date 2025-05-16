@@ -60,7 +60,7 @@ REST API приложение для справочника Организаци
 
 2. Клонируйте репозиторий:
    ```
-   git clone https://github.com/yokitheyo/tetst.git
+   git clone https://github.com/yokitheyo/nebtask.git
    cd tetst
    ```
 
