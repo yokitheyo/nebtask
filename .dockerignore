@@ -1,0 +1,16 @@
+   __pycache__/
+   *.pyc
+   *.pyo
+   *.pyd
+   .Python
+   env/
+   venv/
+   .env
+   .git
+   .gitignore
+   alembic/
+   !alembic/versions/
+   *.db
+   *.sqlite3
+   *.log
+   logs/

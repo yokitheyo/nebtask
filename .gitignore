@@ -114,9 +114,7 @@ venv.bak/
 logs/
 *.log
 
-# Игнорировать все файлы в папке alembic, кроме папки versions
-alembic/*
-!alembic/versions/
+
 
 # Игнорировать все .pyc файлы и папки __pycache__
 *.py[cod]
