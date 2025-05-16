@@ -1,0 +1,12 @@
+fastapi>=0.104.0
+uvicorn>=0.23.2
+sqlalchemy>=2.0.22
+alembic>=1.12.0
+pydantic>=2.4.2
+asyncpg>=0.28.0
+psycopg2-binary>=2.9.9
+python-dotenv>=1.0.0
+geoalchemy2>=0.14.1
+shapely>=2.0.1
+sqlalchemy[asyncio]>=2.0.22
+pydantic-settings>=2.0.3
