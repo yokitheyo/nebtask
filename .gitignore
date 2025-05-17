@@ -121,6 +121,3 @@ logs/
 __pycache__/
 
 # Игнорировать конкретные файлы в корне папки alembic
-alembic/env.py
-alembic/script.py.mako
-alembic/README
